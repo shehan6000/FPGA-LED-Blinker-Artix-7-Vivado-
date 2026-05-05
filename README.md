@@ -1,4 +1,6 @@
 # 🔷 FPGA LED Blinker (Artix-7 + Vivado)
+<img width="1039" height="399" alt="Screenshot 2026-05-05 173916" src="https://github.com/user-attachments/assets/5cd4420b-1587-4872-83b5-4efbcbe592e8" />
+
 
 ## 📌 Overview
 
